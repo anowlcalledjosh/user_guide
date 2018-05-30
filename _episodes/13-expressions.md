@@ -114,3 +114,4 @@ You can only use expressions in certain fields.  These are:
 
 [file-prop]: http://www.commonwl.org/v1.0/CommandLineTool.html#File
 [rec-practices]: http://www.commonwl.org/user_guide/rec-practices/
+{% include links.md %}
